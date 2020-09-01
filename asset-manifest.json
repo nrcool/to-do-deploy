@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/nrcool/to-do-deploy/static/css/main.83ee2b08.chunk.css",
-    "main.js": "/nrcool/to-do-deploy/static/js/main.c1b0a377.chunk.js",
-    "main.js.map": "/nrcool/to-do-deploy/static/js/main.c1b0a377.chunk.js.map",
+    "main.js": "/nrcool/to-do-deploy/static/js/main.bfc30943.chunk.js",
+    "main.js.map": "/nrcool/to-do-deploy/static/js/main.bfc30943.chunk.js.map",
     "runtime-main.js": "/nrcool/to-do-deploy/static/js/runtime-main.17810bb5.js",
     "runtime-main.js.map": "/nrcool/to-do-deploy/static/js/runtime-main.17810bb5.js.map",
-    "static/js/2.ce6263dd.chunk.js": "/nrcool/to-do-deploy/static/js/2.ce6263dd.chunk.js",
-    "static/js/2.ce6263dd.chunk.js.map": "/nrcool/to-do-deploy/static/js/2.ce6263dd.chunk.js.map",
+    "static/js/2.5a03160e.chunk.js": "/nrcool/to-do-deploy/static/js/2.5a03160e.chunk.js",
+    "static/js/2.5a03160e.chunk.js.map": "/nrcool/to-do-deploy/static/js/2.5a03160e.chunk.js.map",
     "index.html": "/nrcool/to-do-deploy/index.html",
-    "precache-manifest.3cecc49c3886d716ba07d23b5831ba12.js": "/nrcool/to-do-deploy/precache-manifest.3cecc49c3886d716ba07d23b5831ba12.js",
+    "precache-manifest.1131db759c3d7d2e4f0785ceb2861c7f.js": "/nrcool/to-do-deploy/precache-manifest.1131db759c3d7d2e4f0785ceb2861c7f.js",
     "service-worker.js": "/nrcool/to-do-deploy/service-worker.js",
     "static/css/main.83ee2b08.chunk.css.map": "/nrcool/to-do-deploy/static/css/main.83ee2b08.chunk.css.map",
-    "static/js/2.ce6263dd.chunk.js.LICENSE.txt": "/nrcool/to-do-deploy/static/js/2.ce6263dd.chunk.js.LICENSE.txt"
+    "static/js/2.5a03160e.chunk.js.LICENSE.txt": "/nrcool/to-do-deploy/static/js/2.5a03160e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.17810bb5.js",
-    "static/js/2.ce6263dd.chunk.js",
+    "static/js/2.5a03160e.chunk.js",
     "static/css/main.83ee2b08.chunk.css",
-    "static/js/main.c1b0a377.chunk.js"
+    "static/js/main.bfc30943.chunk.js"
   ]
 }
